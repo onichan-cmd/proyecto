@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-02-24 14:59:43 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-02-16 16:48:45 +0000"
@@ -392,6 +398,12 @@
   "vinery:flower_box": {
     "criteria": {
       "has_the_recipe": "2025-02-16 16:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-24 14:59:43 +0000"
     },
     "done": true
   },
@@ -746,6 +758,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-02-16 16:48:45 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-02-24 14:58:35 +0000"
     },
     "done": true
   },
@@ -1182,6 +1200,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-02-16 16:48:45 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-24 14:59:43 +0000"
     },
     "done": true
   },

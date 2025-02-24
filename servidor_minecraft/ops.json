@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "35ca3b2e-b77f-4d93-b85f-bab451561b58",
+    "name": "Hamvorgueso",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
