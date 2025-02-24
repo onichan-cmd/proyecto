@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "26b8a8eff3163a3fba401d85cad88b70"
+	name: "Derek9279"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1739727946148L
+		6F010E22CD886969: 1739727946148L
+		0000000000000001: 1739727946148L
+		744084D7C7EA8A6C: 1739727946148L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1739727946149L
+		6F010E22CD886969: 1739727946149L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "18d38c3f8e4c48bab0da19984915eb68"
+	name: "PatadaNuclear01"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1739764539827L
+		6F010E22CD886969: 1739764539827L
+		0000000000000001: 1739764539827L
+		744084D7C7EA8A6C: 1739764539827L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1739764539828L
+		6F010E22CD886969: 1739764539828L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
